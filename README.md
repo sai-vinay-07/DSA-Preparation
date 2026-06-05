@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0561-array-partition) |
 | [0896-monotonic-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
