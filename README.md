@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0561-array-partition) |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-vinay-07/DSA-Preparation/tree/master/0977-squares-of-a-sorted-array) |
